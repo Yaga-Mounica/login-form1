@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+.container-fluid{ background:url(541163da3c7dc.jpg) no-repeat;
+background-size:cover;
+height:100%;
+
+border-bottom: white;
+}
+.container{border-bottom: 1px solid white;}
+.bk{color: white;margin: 0px 0px 54px 139px;padding: 41px 0px 0px 0px;display: inline-block;}
+.login{margin: 0px 0px 0px 702px;display: inline-table;}
+.fgt{margin: 0px 32px;text-decoration: none;color: white;}
+.log{}
+.rem{color: white;}
+.cont2{/*! display: inline-block; */margin: 50px 0px 0px 0px;}
+.fol{color: white;margin: 11px 0px 0px 134px;}
+.para{color: grey;margin: 11px 0px 0px 133px;font-size: 22px;}
+.search{padding: 10px 0px 10px 0px;margin: 35px 0px 0px 120px;border-radius: 19px;}
+.inpt{/*! display: inline-block; */margin: 100px 0px 50px 250px;padding: 0px 0px 60px 0px;}
+.Fname{padding: 12px 173px 15px 15px;border-radius: 10px;margin: 8px 0px;}
+.mail{padding: 10px 170px 15px 15px;border-radius: 10px;margin: 8px 0px;}
+.pswrd{padding: 10px 170px 15px 15px;border-radius: 10px;margin: 8px 0px;}
+.submt{padding: 3px 29px 9px 29px;margin: 5px 0px 0px 220px;background-color: darkkhaki;border-radius: 9px;}
+.parah{margin: 2px;color: whitesmoke;}
+.container-fluid2{display: inline-flex;border-bottom: 1px solid white;padding: 0px 284px 0px 7px;}
+.copy{color: cornflowerblue;padding: 7px 119px 39px 116px;}
+.book{color: white;}
+.name{color: white;}
